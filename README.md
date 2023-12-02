@@ -1,2 +1,3 @@
 # PIA01
-Tarea 1 para el módulo Programación de Inteligencia Artificial (23-24)
+<p><i>Tarea 1</i> para el módulo Programación de Inteligencia Artificial (23-24)</p>
+<p>Accede a la página web de <b>GitHub</b> y sigue los pasos para registrarte y crearte una cuenta. Cuando se te pida que especifiques si eres alumno o profesor, pulsa en la opción que aparece en la parte inferior de la pantalla "skip personalization". Tras concluir el proceso de registro, crea tu primer <b>repositorio</b>, incluyendo, de momento, un archivo Readme en el que añadas, con lenguaje de marcación, una breve explicación de la tarea, y un archivo sencillo "Hola Mundo" en el <b>lenguaje de programación Python</b>. </p>
